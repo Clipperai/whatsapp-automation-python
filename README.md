@@ -2,6 +2,11 @@
 
 Python script to automatically send WhatsApp messages.
 
+## Versions
+
+v1 – Basic WhatsApp automation  
+v2 – Voice-assisted WhatsApp automation
+
 ## Features
 - Send scheduled messages
 - Opens WhatsApp Web automatically
