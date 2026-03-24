@@ -1,2 +1,8 @@
-pywhatkit
-pyautogui
+For v1:
+        pywhatkit
+        
+
+For v2:
+        pywhatkit
+        pyttsx3
+        
