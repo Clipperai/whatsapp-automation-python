@@ -1,3 +1,4 @@
+⭐ If you like this project, give it a star!
 # WhatsApp Automation Bot
 
 Python script to automatically send WhatsApp messages.
